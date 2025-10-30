@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerCompass2 🧭
 
 **AI-Powered Career Guidance Platform for High School Students**
