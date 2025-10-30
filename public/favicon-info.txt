@@ -1,0 +1,14 @@
+# Compass Favicon
+# This file represents a compass-themed favicon for CareerCompass
+# The compass symbolizes guidance, direction, and navigation - perfect for a career guidance app
+
+# SVG-based favicon with compass design:
+# - Blue circular background (#1e40af) representing trust and professionalism
+# - White compass rose with cardinal directions (N, S, E, W)
+# - Red north-pointing needle for clear direction
+# - Clean, modern design that scales well at different sizes
+
+# The compass metaphor aligns perfectly with the CareerCompass brand:
+# - Guiding students to their career destinations
+# - Providing direction in career choices
+# - Navigating the job market landscape
